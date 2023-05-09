@@ -1,5 +1,5 @@
-# internet-cool-projects
-Cool projects which I find on the internet. 
+# Project/Learning Material
+Cool projects and learning material which I find on the internet. 
 
 
 
@@ -16,6 +16,14 @@ Cool projects which I find on the internet.
 ## Component library
 
 - [Tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
+
+
+
+## Learnings
+
+- Machine Learning
+  - [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) - Good for beginners
+  - [Microsoft](https://microsoft.github.io/ML-For-Beginners) - Good for beginners
 
 
 
