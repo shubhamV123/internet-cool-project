@@ -1,7 +1,8 @@
 # Project/Learning Material
 Cool projects and learning material which I find on the internet. 
 
-
+## General
+- [Web design guidelines](https://rauno.me/interfaces)
 
 ## Web page Templates
 - [Simple landing page](https://github.com/cruip/tailwind-landing-page-template) - This is free. Preemium one is also very good
