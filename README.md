@@ -27,6 +27,8 @@ Cool projects and learning material which I find on the internet.
   - [Microsoft](https://microsoft.github.io/ML-For-Beginners) - Good for beginners
 - React
   - [React server component](https://github.com/reactwg/server-components/discussions/5) -  Deep dive
+  - [Demystifying React Server Components
+with NextJS 13 App Router](https://demystifying-rsc.vercel.app/static-content/2/)
 
 
 
